@@ -2,8 +2,8 @@
 
 Projeto realizado por:
 > Mateus Yuji Nojima 184125  
-> Nome 2  
-> Nome 3  
+> Leonardo Rogelio Da Silva 177346  
+> Pedro Henrique Grosso Marquezini 186942  
 > Nome 4  
 
 Nome do jogo:
